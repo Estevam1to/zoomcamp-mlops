@@ -1,7 +1,5 @@
 # zoomcamp-mlops
 
-# MLOps Zoomcamp - Luís Estevam  
-
 - Este repositório contém os materiais, anotações e exercícios que estou desenvolvendo ao longo do curso **MLOps Zoomcamp** oferecido pelo DataTalks.Club. O objetivo do curso é aprender as práticas de MLOps para levar modelos de Machine Learning ao ambiente de produção.
 
 ## Objetivo do Repositório
